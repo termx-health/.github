@@ -17,5 +17,5 @@ TermX consists of the internally and externally developed micro-services require
 - [TermX web](https://github.com/termx-health/termx-WEB), an Angular-based front-end application, communicates with the server via a RESTful API, offering a user-friendly interface for effortless task execution;
 - [FML editor](https://github.com/termx-health/termx-fml) (FHIR Mapping Language editor), an Angular-based front-end application for data transformation management that interacts with FHIR StructureDefinition and StructureMap resources while implementing the FHIR FML specification;
 - [Chef](https://github.com/termx-health/termx-chef), the wrapper for Mitre Sushi and GoFSH projects that provides the ability to transform the FHIR JSON notation of the resources into Shorthand FSH notation and vice versa;
-- [Structure definition viewer](https://github.com/termx-health/structure-definition-viewer), an Angular-based front-end application for visialization of FHIR StructureDefinition;
-- [Static site genarator](https://github.com/termx-health/termx-ssg), the wrapper for the Jekyll static website generator generates sites based on TermX Wiki content.
+- [Structure definition viewer](https://github.com/termx-health/structure-definition-viewer), an Angular-based front-end application for visualization of FHIR StructureDefinition;
+- [Static site generator](https://github.com/termx-health/termx-ssg), the wrapper for the Jekyll static website generator that generates sites based on TermX Wiki content.
