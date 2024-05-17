@@ -8,6 +8,9 @@ Follow [step-by-step instructions](https://github.com/termx-health/termx-quick-s
 ### Demo
 Try TermX in the [development environment](https://termx.kodality.dev/).
 
+### Issues
+Register issues under [TermX](https://github.com/orgs/termx-health/projects/1/views/1) project.
+
 ### Read more
 Visit TermX [website](https://termx.org).
 
