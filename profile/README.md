@@ -6,7 +6,7 @@ The core development goals of TermX were to enhance the interoperability of soft
 Follow [step-by-step instructions](https://github.com/termx-health/termx-quick-start) to install TermX.
 
 ### Demo
-Try TermX in the [development environment](https://termx.kodality.dev/).
+Try TermX in the [development environment](https://demo.termx.org/).
 
 ### Issues
 Register issues under [TermX](https://github.com/orgs/termx-health/projects/1/views/1) project.
